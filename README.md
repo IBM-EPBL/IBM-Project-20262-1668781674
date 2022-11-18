@@ -7,16 +7,17 @@
 **Batch Name :** B5-5M1E
 
 ---
+**Team ID	     :** PNT2022TMID20750
 
-**Team Size :** 4
+**Team Size    :** 4
 
-**Team Leader :** Abdul Razik
+**Team Leader  :** Abdul Razik
 
-**Team member :** Aswin
+**Team member  :** Aswin
 
-**Team member :** Abinath 
+**Team member  :** Abinath 
 
-**Team member :** Kummara Rishi
+**Team member  :** Kummara Rishi
 
 ---
 **Industry Mentor(s) Name :** Mahidhar, Saumya
@@ -31,7 +32,7 @@ Bachelor of Engineering
 **Branch	:**	
  Computer Science
 
-**College	:**	
+**College:**	
 Sri Sai Ram Institute of Technology
 
 ---
